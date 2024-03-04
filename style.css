@@ -1,0 +1,16 @@
+h1,h2,p{
+    text-align: center;
+}
+em{
+    color: #3CA6A6;
+}
+div{
+    background-color: #F2E3D5;
+    padding: 20px;
+}
+#missao{
+    font-size: 20px;
+}
+img{
+    width: 100%;
+}
